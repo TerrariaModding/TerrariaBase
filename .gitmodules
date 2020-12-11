@@ -1,0 +1,6 @@
+[submodule "SetupTool"]
+	path = SetupTool
+	url = https://github.com/TerrariaModding/SetupTool
+[submodule "patches/Terraria"]
+	path = patches/Terraria
+	url = https://github.com/TerrariaModding/TerrariaPatches

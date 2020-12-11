@@ -1,0 +1,10 @@
+{
+	"LogsDir": "logs",
+	"ClientVersion": "1.4.1.2",
+	"ServerVersion": "1.4.1.2",
+	"PatchesDir": "patches",
+	"SrcDir": "src",
+	"Projects": [
+		"Terraria"
+	]
+}

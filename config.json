@@ -5,6 +5,15 @@
 	"PatchesDir": "patches",
 	"SrcDir": "src",
 	"DecompSrcDir": "decompiled",
+	"DiffExtensions": [
+		".cs", 
+		".csproj", 
+		".ico", ".resx", 
+		".png", 
+		"App.config", 
+		".json", 
+		".targets"
+	],
 	"Projects": {
 		"Terraria": {
 			"PatchesDir": "Terraria",

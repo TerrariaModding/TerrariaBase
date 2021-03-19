@@ -8,7 +8,8 @@
 	"Projects": {
 		"Terraria": {
 			"PatchesDir": "Terraria",
-			"SrcDir": "Terraria"
+			"SrcDir": "Terraria",
+			"CopyVanillaPatches": false
 		}
 	}
 }

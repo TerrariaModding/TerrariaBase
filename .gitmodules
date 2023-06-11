@@ -4,5 +4,5 @@
 [submodule "patches/Terraria"]
 	path = patches/Terraria
 	url = https://github.com/TerrariaModding/TerrariaPatches
-[submodule "patches\\Terraria 1.4.1.2"]
-	branch = 1.4.1.2
+[submodule "patches\\Terraria 1.4.4.9"]
+	branch = 1.4.4.9

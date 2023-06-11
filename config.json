@@ -1,7 +1,7 @@
 {
 	"LogsDir": "logs",
-	"ClientVersion": "1.4.1.2",
-	"ServerVersion": "1.4.1.2",
+	"ClientVersion": "1.4.4.9",
+	"ServerVersion": "1.4.4.9",
 	"PatchesDir": "patches",
 	"SrcDir": "src",
 	"DecompSrcDir": "decompiled",
